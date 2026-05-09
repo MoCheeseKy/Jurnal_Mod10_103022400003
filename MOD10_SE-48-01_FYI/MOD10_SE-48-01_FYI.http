@@ -1,0 +1,6 @@
+@MOD10_SE_48_01_FYI_HostAddress = http://localhost:5221
+
+GET {{MOD10_SE_48_01_FYI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
